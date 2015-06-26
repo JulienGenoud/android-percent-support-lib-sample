@@ -1,4 +1,4 @@
-Android Percent Support Lib Samples :triangular_ruler::triangular_ruler::triangular_ruler:
+Android Percent Support Lib Sample :triangular_ruler::triangular_ruler::triangular_ruler:
 ===================================
 
 I made a sample of the new percent support library.
