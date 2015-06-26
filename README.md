@@ -6,6 +6,15 @@ This think will be documented soon on android dev website so it's just a proof o
 
 This will be very cool to work directly with percents on xml instead of weightSum !
 
+```xml
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compile 'com.github.navasmdc:MaterialDesign:1.5@aar'
+}
+```
 ![PercentRelativeLayout](screenshot/screen1.png)
 
 ###Supported Layouts :
