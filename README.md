@@ -6,12 +6,16 @@ This think will be documented soon on android dev website so it's just a proof o
 
 This will be very cool to work directly with percents on xml instead of weightSum !
 
+![PercentRelativeLayout](screenshot/screen1.png)
+
+
+### How to use :
+just add percent support library to your project
 ```xml
 dependencies {
     compile 'com.android.support:percent:22.2.0'
 }
 ```
-![PercentRelativeLayout](screenshot/screen1.png)
 
 ###Supported Layouts :
 
