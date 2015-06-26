@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PercentSamples</string>
+
+    <string name="title_section1">RelativeLayout 1</string>
+    <string name="title_section2">RelativeLayout 2</string>
+    <string name="title_section3">FrameLayout 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
