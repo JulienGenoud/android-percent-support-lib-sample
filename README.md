@@ -4,7 +4,9 @@ Android Percent Support Lib Samples :triangular_ruler::triangular_ruler::triangu
 I made a sample of the new percent support library.
 This think will be documented soon on android dev website so it's just a proof of concept :)
 
-this library provide horizontal and vertical percentage at the same time.
+this library provide percentage based layouts,
+horizontal and vertical at the same time.
+
 ![PercentRelativeLayout](screenshot/screen1.png)
 
 
