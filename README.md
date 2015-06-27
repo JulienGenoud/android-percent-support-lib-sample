@@ -7,7 +7,8 @@ It will be documented soon on android dev website so it's just a proof of concep
 This library provide percentage based layouts,
 horizontal and vertical at the same time.
 
-![PercentRelativeLayout](screenshot/screen1.png)
+![PercentRelativeLayout](https://cloud.githubusercontent.com/assets/1808854/8392086/dd20ee1e-1cdd-11e5-852e-795a0d00cc89.png)
+
 
 
 ### How to use :
