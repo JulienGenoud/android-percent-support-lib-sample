@@ -89,6 +89,6 @@ Pre-requisites
 - Android Percent Support Repository v22.2.0
 - Android Support v4 Repository v22.2.0
 
-according to the the source this lib is in v4 compat?
+according to the the manifest minsdk is v7 (android 2.1) 
 
 ####License Mit
