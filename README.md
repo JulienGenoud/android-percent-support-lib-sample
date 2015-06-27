@@ -1,12 +1,22 @@
-Android Percent Support Lib Samples :triangular_ruler::triangular_ruler::triangular_ruler:
+Android Percent Support Lib Sample :triangular_ruler::triangular_ruler::triangular_ruler:
 ===================================
 
 I made a sample of the new percent support library.
-This think will be documented soon on android dev website so it's just a proof of concept :)
+It will be documented soon on android dev website so it's just a proof of concept :)
 
-This will be very cool to work directly with percents on xml instead of weightSum !
+This library provide percentage based layouts,
+horizontal and vertical at the same time.
 
 ![PercentRelativeLayout](screenshot/screen1.png)
+
+
+### How to use :
+just add percent support library to your project
+```xml
+dependencies {
+    compile 'com.android.support:percent:22.2.0'
+}
+```
 
 ###Supported Layouts :
 
