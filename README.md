@@ -1,5 +1,6 @@
 Android Percent Support Lib Sample :triangular_ruler::triangular_ruler::triangular_ruler:
 ===================================
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-android--percent--support--lib--sample-green.svg?style=flat)](https://android-arsenal.com/details/3/2054)
 
 I made a sample of the new percent support library.<br>
 It will be documented soon on android dev website so it's just a proof of concept :)<br>
