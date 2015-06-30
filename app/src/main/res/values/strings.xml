@@ -5,6 +5,7 @@
     <string name="title_section2">RelativeLayout 2</string>
     <string name="title_section3">FrameLayout 1</string>
     <string name="title_section4">Complex RelativeLayout</string>
+    <string name="title_section5">LinearLayout 1</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
