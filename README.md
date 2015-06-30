@@ -67,6 +67,30 @@ dependencies {
 </android.support.percent.PercentRelativeLayout>
 ```
 
+####PercentLinearLayout
+```xml
+<com.juliengenoud.percentsamples.PercentLinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+     <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="#ff44aacc"
+        app:layout_heightPercent="10%"
+        app:layout_widthPercent="60%"/>
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="#ff4400cc"
+        app:layout_heightPercent="10%"
+        app:layout_widthPercent="70%"/>
+</com.juliengenoud.percentsamples.PercentLinearLayout>
+```
+
 ####PercentFrameLayout
 ```xml
 <android.support.percent.PercentFrameLayout
@@ -77,6 +101,8 @@ dependencies {
         <!-- ... XML CODE -->
 </android.support.percent.PercentFrameLayout>
 ```
+
+
 
 ###Stylable :
 
