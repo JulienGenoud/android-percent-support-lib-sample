@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<com.juliengenoud.percentsamples.PercentLinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="#ff44aacc"
+        android:text="width:60%,height:5%"
+        android:textColor="#ffffff"
+        app:layout_heightPercent="5%"
+        app:layout_marginBottomPercent="5%"
+        app:layout_widthPercent="60%"/>
+
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="#ff4400cc"
+        android:gravity="center"
+        android:textColor="#ffffff"
+        android:text="width:70%,height:10%"
+        app:layout_heightPercent="10%"
+        app:layout_marginBottomPercent="5%"
+        app:layout_widthPercent="70%"/>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="#ff44aacc"
+        android:gravity="center"
+        android:text="width:80%,height:15%"
+        android:textColor="#ffffff"
+        app:layout_heightPercent="15%"
+        app:layout_marginBottomPercent="5%"
+        app:layout_widthPercent="80%"/>
+    <TextView
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="#ff4400cc"
+        android:gravity="center"
+        android:text="width:90%,height:5%"
+        android:textColor="#ffffff"
+        app:layout_heightPercent="20%"
+        app:layout_marginBottomPercent="5%"
+        app:layout_widthPercent="90%"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="#ff44aacc"
+        android:gravity="center"
+        android:text="width:100%,height:25%"
+        android:textColor="#ffffff"
+        app:layout_heightPercent="25%"
+        app:layout_marginBottomPercent="5%"
+        />
+
+
+</com.juliengenoud.percentsamples.PercentLinearLayout>
+
+
