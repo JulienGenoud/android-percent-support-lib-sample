@@ -12,8 +12,6 @@ horizontal and vertical at the same time.
 ![PercentRelativeLayout](https://cloud.githubusercontent.com/assets/1808854/8392086/dd20ee1e-1cdd-11e5-852e-795a0d00cc89.png)
 ## complex result
 ![PercentRelativeLayout Complex](https://cloud.githubusercontent.com/assets/1808854/8398283/22bd374c-1de8-11e5-9e74-f19ea46b8086.png)
-<br>from https://gist.github.com/shekarshine/5458f697c02e5619b0e2
-
 
 
 
