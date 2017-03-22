@@ -1,3 +1,5 @@
+# [DEPRECATED in support lib v26] you should now use ConstraintLayout widget https://developer.android.com/training/constraint-layout/index.html
+
 Android Percent Support Lib Sample :triangular_ruler::triangular_ruler::triangular_ruler:
 ===================================
 [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-android--percent--support--lib--sample-green.svg?style=flat)](https://android-arsenal.com/details/3/2054)
@@ -20,7 +22,7 @@ horizontal and vertical at the same time.
 just add percent support library to your project
 ```xml
 dependencies {
-    compile 'com.android.support:percent:22.2.0'
+    compile 'com.android.support:percent:25.3.0'
 }
 ```
 
@@ -116,11 +118,7 @@ dependencies {
 Pre-requisites
 --------------
 
-- Android SDK v22
-- Android Build Tools v22.0.1
-- Android Percent Support Repository v22.2.0
-- Android Support v4 Repository v22.2.0
-
-according to the the manifest minsdk is v7 (android 2.1) 
+- Android SDK v25
+- Android Percent Support Repository v25.3.0
 
 ####License Mit
